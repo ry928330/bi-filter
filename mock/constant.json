@@ -1,0 +1,16 @@
+{
+  "partmentDataSource": [
+    {
+      "label": "技术部",
+      "value": "技术部"
+    },
+    {
+      "label": "产品部",
+      "value": "产品部"
+    },
+    {
+      "label": "市场部",
+      "value": "市场部"
+    }
+  ]
+}
